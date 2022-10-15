@@ -2,6 +2,8 @@
 
 /*--- None of this works with the WPS World Programming System ---*/
 
+/*--- https://github.com/rogerjdeangelis/utl-latest-command-macros-for-the-sas-classic-editor ---*/
+
 %macro offPac();
 
 Win 19 64 SAS 9.4M7 64bit
