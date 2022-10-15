@@ -4,6 +4,8 @@
     /*--- The best integrated development environment initially created by the geniuses at the IBM Thomas Watson Reseach Center ---*/
 
     /*--- None of this works with the WPS World Programming System ---*/
+    
+    /*--- https://github.com/rogerjdeangelis/utl-latest-command-macros-for-the-sas-classic-editor ---*/
 
     %macro offPac();
 
